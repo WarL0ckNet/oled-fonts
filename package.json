@@ -1,0 +1,26 @@
+{
+  "name": "oled-fonts",
+  "version": "1.0.0",
+  "description": "System fonts suitable for oled libraries, in friendly JSON data format",
+  "main": "oled-fonts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WarL0ckNet/oled-fonts.git"
+  },
+  "keywords": [
+    "font",
+    "oled",
+    "ssd1306",
+    "russian",
+    "ukrain"
+  ],
+  "author": "WarL0ck.Net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WarL0ckNet/oled-fonts/issues"
+  },
+  "homepage": "https://github.com/WarL0ckNet/oled-fonts"
+}
