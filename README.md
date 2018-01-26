@@ -7,7 +7,7 @@ Source fonts from [UTFT Fonts](http://www.rinkydinkelectronics.com/r_fonts.php),
 
 | Name font | Screensot | Type | Size | Comment |
 |-----------|-----------|------|------|---------|
-|SmallFont  |!(http://www.rinkydinkelectronics.com/watermark.php?fn=SmallFont.png&ts=1304726827)||6x8||
+|SmallFont  |![SmallFont](http://www.rinkydinkelectronics.com/images/fonts/SmallFont.png)||6x8||
 |RusFont  |||6x8||
 |UkrFont  |||6x8||
 |MediumNumbers  |||12x16||
